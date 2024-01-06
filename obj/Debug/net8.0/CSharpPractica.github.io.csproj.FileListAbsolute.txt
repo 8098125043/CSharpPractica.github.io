@@ -1,0 +1,14 @@
+L:\Archivo_Github\CSharpPractica.github.io\bin\Debug\net8.0\CSharpPractica.github.io.exe
+L:\Archivo_Github\CSharpPractica.github.io\bin\Debug\net8.0\CSharpPractica.github.io.deps.json
+L:\Archivo_Github\CSharpPractica.github.io\bin\Debug\net8.0\CSharpPractica.github.io.runtimeconfig.json
+L:\Archivo_Github\CSharpPractica.github.io\bin\Debug\net8.0\CSharpPractica.github.io.dll
+L:\Archivo_Github\CSharpPractica.github.io\bin\Debug\net8.0\CSharpPractica.github.io.pdb
+L:\Archivo_Github\CSharpPractica.github.io\obj\Debug\net8.0\CSharpPractica.github.io.GeneratedMSBuildEditorConfig.editorconfig
+L:\Archivo_Github\CSharpPractica.github.io\obj\Debug\net8.0\CSharpPractica.github.io.AssemblyInfoInputs.cache
+L:\Archivo_Github\CSharpPractica.github.io\obj\Debug\net8.0\CSharpPractica.github.io.AssemblyInfo.cs
+L:\Archivo_Github\CSharpPractica.github.io\obj\Debug\net8.0\CSharpPractica.github.io.csproj.CoreCompileInputs.cache
+L:\Archivo_Github\CSharpPractica.github.io\obj\Debug\net8.0\CSharpPractica.github.io.dll
+L:\Archivo_Github\CSharpPractica.github.io\obj\Debug\net8.0\refint\CSharpPractica.github.io.dll
+L:\Archivo_Github\CSharpPractica.github.io\obj\Debug\net8.0\CSharpPractica.github.io.pdb
+L:\Archivo_Github\CSharpPractica.github.io\obj\Debug\net8.0\CSharpPractica.github.io.genruntimeconfig.cache
+L:\Archivo_Github\CSharpPractica.github.io\obj\Debug\net8.0\ref\CSharpPractica.github.io.dll
