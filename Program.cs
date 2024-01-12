@@ -1,13 +1,17 @@
 ﻿using System;
 
-class Program
+namespace cSarppholaW
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hola , MUNDO!");
+        static void Main(string[] args)
+        {
+            int miInt = 4 + 2;
+            Console.WriteLine($"Cantidad:{miInt}");
+        }
+
     }
+
 }
-
-
 
 
